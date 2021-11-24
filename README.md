@@ -22,3 +22,9 @@
 ![image](https://user-images.githubusercontent.com/75641454/143235702-7310e016-3f2c-4b63-a341-f12403bf20bf.png)
 
 
+## Reponsividade do site
+
+![image](https://user-images.githubusercontent.com/75641454/143237108-e42e1e9d-f2c9-46d5-8d2e-10370cab8e7f.png)
+
+
+
